@@ -26,9 +26,11 @@ If you find any mistake, please feel free to [raise an issue](https://github.com
 |NME 220 Intro to Molecular and Nanoscale Principles|[lecture](cheme/nme220-notes.pdf)|**Molecular and nanoscale principles** - scaling and transport properties, atomic theory and models, wave function in quantum mechanics, nanoscience and technology, electronic structures of molecules, molecular modes|:white_check_mark:|
 |CHEM E 310 <br/> Mass and Energy Balances|[lecture](cheme/cheme310-notes-lecture.pdf) <br/> [reading](cheme/cheme310-notes-reading.pdf)|**Material and energy balances** - units and process variables, material and energy balances of nonreactive and reactive processes, single- and multi-phase systems|:white_check_mark:|
 |CHEM E 325 Energy and Entropy|[lecture](cheme/cheme325-notes.pdf)|**Thermodynamics I** - thermodynamic data, molecular interactions and equations of state, first and second law analysis, process efficiency, single and multi-component equilibrium|:white_check_mark:|
-|CHEM E 326 Chemical Engineering Thermodynamics|[pdf]|**Thermodynamics II**|Wi22 in progress <br/> :pick:|
+|CHEM E 326 Chemical Engineering Thermodynamics|[lecture](cheme/cheme326-notes.pdf)|**Thermodynamics II** - thermodynamic relations, single- and multi-component phase equilibrium, fugacity-based equilibrium, phase equilibrium applications, chemical equilibrium|:white_check_mark:|
 |CHEM E 330 Transport Process I|[lecture](cheme/cheme330-notes.pdf)|**Basic transport** - rate laws, transport coefficients, shell balance method, generalization to 3D <br/> **Fluid mechanics** - Navier-Stokes equation, top-down method, turbulence, dynamic similarity, dimensional analysis, Bernoulli analysis, microfluidics|:white_check_mark:|
-|CHEM E 340 Transport Process II|[pdf]|**Heat transfer**|Wi22 in progress <br/> :pick:|
+|CHEM E 340 Transport Process II|[lecture](cheme/cheme340-notes.pdf)|**Heat transfer** - 1D convection, 2D convection, transient heat conduction, convection, boiling and condensation, heat changers, radiation|:white_check_mark:|
+|CHEM E 457 Principles of Molecular Engineering|[pdf]|**Statistical mechanics** <br/> **Kinetics**|Sp22 in progress <br/> :pick:|
+|CHEM E 455 Surface and Colloid Science Laboratory|[pdf]|**Surface and colloid science**|Sp22 in progress <br/> :pick:|
 
 ## Chemistry
 
@@ -47,3 +49,4 @@ If you find any mistake, please feel free to [raise an issue](https://github.com
 |-|-|-|:-:|
 |AMATH 351 <br/> Intro to Differential Equations and Applications|[lecture](amath/amath351-notes.pdf)|**Ordinary differential equations** - 1st, 2nd order ODE with applications, systems of ODEs, Laplace transform|:white_check_mark:|
 |AMATH 352 <br/> Applied Linear Algebra and Numerical Analysis|[reading](amath/amath352-notes.pdf)|**Linear algebra** - floating-point arithmetic, conditioning of problems, stability of algorithms, direct methods of solving linear systems, singular value decomposition|:white_check_mark:|
+|AMATH 353 Partial Differential Equation and Waves|[pdf]|**Partial differential equations**|Sp22 in progress <br/> :pick:|

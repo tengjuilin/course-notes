@@ -29,8 +29,8 @@ If you find any mistake, please feel free to [raise an issue](https://github.com
 |CHEM E 326 Chemical Engineering Thermodynamics|[lecture](cheme/cheme326-notes.pdf)|**Thermodynamics II** - thermodynamic relations, single- and multi-component phase equilibrium, fugacity-based equilibrium, phase equilibrium applications, chemical equilibrium|:white_check_mark:|
 |CHEM E 330 Transport Process I|[lecture](cheme/cheme330-notes.pdf)|**Basic transport** - rate laws, transport coefficients, shell balance method, generalization to 3D <br/> **Fluid mechanics** - Navier-Stokes equation, top-down method, turbulence, dynamic similarity, dimensional analysis, Bernoulli analysis, microfluidics|:white_check_mark:|
 |CHEM E 340 Transport Process II|[lecture](cheme/cheme340-notes.pdf)|**Heat transfer** - 1D convection, 2D convection, transient heat conduction, convection, boiling and condensation, heat exchangers, radiation|:white_check_mark:|
-|CHEM E 457 Principles of Molecular Engineering|[pdf]|**Statistical mechanics** <br/> **Kinetics**|Sp22 in progress <br/> :pick:|
 |CHEM E 455 Surface and Colloid Science Laboratory|[pdf]|**Surface and colloid science**|Sp22 in progress <br/> :pick:|
+|CHEM E 457 Principles of Molecular Engineering|[pdf]|**Statistical mechanics** <br/> **Kinetics**|Sp22 in progress <br/> :pick:|
 
 ## Chemistry
 

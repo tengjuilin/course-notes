@@ -49,4 +49,4 @@ If you find any mistake, please feel free to [raise an issue](https://github.com
 |-|-|-|:-:|
 |AMATH 351 <br/> Intro to Differential Equations and Applications|[lecture](amath/amath351-notes.pdf)|**Ordinary differential equations** - 1st, 2nd order ODE with applications, systems of ODEs, Laplace transform|:white_check_mark:|
 |AMATH 352 <br/> Applied Linear Algebra and Numerical Analysis|[reading](amath/amath352-notes.pdf)|**Linear algebra** - floating-point arithmetic, conditioning of problems, stability of algorithms, direct methods of solving linear systems, singular value decomposition|:white_check_mark:|
-|AMATH 353 Partial Differential Equation and Waves|[pdf]|**Partial differential equations**|Sp22 in progress <br/> :pick:|
+|AMATH 353 Partial Differential Equation and Waves|[lecture](amath/amath353-notes.pdf)|**Partial differential equations**|:white_check_mark:|

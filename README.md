@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/github/license/tengjuilin/course-notes)](https://creativecommons.org/licenses/by/4.0/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tengjuilin/course-notes)
+[![DOI](https://zenodo.org/badge/441234482.svg)](https://zenodo.org/badge/latestdoi/441234482)
 
 ## Introduction
 
